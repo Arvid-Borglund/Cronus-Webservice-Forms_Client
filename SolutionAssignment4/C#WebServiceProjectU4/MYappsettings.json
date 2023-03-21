@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Assignment4Connection": "Server=localhost;Database=Demo Database NAV (5-0);User ID=ArvidCronus;Password=Thedogdiva123;TrustServerCertificate=true;"
+  }
+}
